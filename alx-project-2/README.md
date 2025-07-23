@@ -1,3 +1,68 @@
+# 📘 Next.js Project Setup and Basics
+
+## 📄 Project Description
+
+This project introduces essential concepts and best practices in building a web application using **Next.js**. It walks through:
+- Setting up a development environment
+- Creating a responsive UI
+- Reusing modular components
+- Working with external APIs
+- Managing state and component props effectively
+
+---
+
+## 🎯 Learning Objectives
+
+By completing this project, you will:
+
+- ✅ Scaffold a Next.js app with TypeScript and Tailwind CSS
+- ✅ Implement basic routing with the Pages Router
+- ✅ Create reusable components using TypeScript interfaces
+- ✅ Build interactive UIs (modals, buttons)
+- ✅ Fetch and display external API data
+- ✅ Apply a scalable project structure
+- ✅ Work with props and manage local state
+- ✅ Build responsive layouts with navigation
+
+---
+
+## 📁 Project Structure
+
+```
+alx-project-0x02/
+├── components/
+│   ├── common/
+│   │   ├── Button.tsx
+│   │   ├── Card.tsx
+│   │   ├── PostCard.tsx
+│   │   ├── PostModal.tsx
+│   │   └── UserCard.tsx
+│   └── layout/
+│       └── Header.tsx
+├── interfaces/
+│   └── index.ts
+├── pages/
+│   ├── _app.tsx
+│   ├── _document.tsx
+│   ├── about.tsx
+│   ├── home.tsx
+│   ├── index.tsx
+│   ├── posts.tsx
+│   └── users.tsx
+├── public/
+│   └── assets/
+│       └── images/
+├── styles/
+│   └── globals.css
+├── .eslintrc.json
+├── next.config.js
+├── package.json
+├── README.md
+└── tsconfig.json
+```
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started

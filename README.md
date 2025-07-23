@@ -77,8 +77,6 @@ By completing this project, you will:
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```
 alx-project-0x02/
 ├── components/
