@@ -49,7 +49,6 @@ By completing this project, you will:
 
 ## ✅ Best Practices
 
-### 📁 Project Structure
 - Organize components by domain: `common/`, `layout/`
 - Keep interfaces in a dedicated folder: `interfaces/`
 - Structure pages clearly within the `pages/` folder
@@ -78,6 +77,9 @@ By completing this project, you will:
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
+```
 alx-project-0x02/
 ├── components/
 │   ├── common/
@@ -108,6 +110,8 @@ alx-project-0x02/
 ├── package.json
 ├── README.md
 └── tsconfig.json
+```
+
 
 
 ---
@@ -134,5 +138,5 @@ Feel free to fork this project, open issues, or submit pull requests to enhance 
 
 ## 📬 Contact
 
-For questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/your-username/your-repo/issues).
+For questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/kingsleyiwuchukwu/alx-project-0x02-setup/issues).
 
